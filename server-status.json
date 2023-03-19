@@ -1,7 +1,7 @@
 {
   "isActive" : true,
   "content": {
-    "title": "Serveur indisponible 😵",
-    "message" : "Notre application mobile est actuellement indisponible en raison de problèmes techniques rencontrés sur les serveurs de notre fournisseur.\nNous travaillons avec eux pour résoudre le problème au plus rapide. \n\nNous sommes désolés pour la gêne occasionnée et nous vous tiendrons informé de la situation.\n\nL'équipe Cycle Zéro."
+    "title": "",
+    "message" : ""
   }
 }
