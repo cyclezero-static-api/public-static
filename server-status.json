@@ -1,7 +1,7 @@
 {
   "isActive" : false,
   "content": {
-    "title": "Matériaux à venir !",
-    "message" : "Nous sommes victimes de notre succès 😲 ! \n Nous sommes submergés, avec des milliers d'utilisateurs se connectant simultanément à notre petit serveurqui n'a malheureusement pas tenu le coup et a crashé 😵\n\n. Nous sommes en pleine action pour remettre en service au plus vite notre serveur auprès de notre fournisseur, nous nous excusons sincèrement pour la gêne occasionée 🫠.\n\n Nous vous remercions de votre compréhension et de votre patience, avec la team Cycle Zéro ♻️."
+    "title": "Panne technique 😵",
+    "message" : "Nous sommes désolés, mais notre serveur a été submergé par le succès inattendu de notre application. Le grand nombre d'utilisateurs s'est connecté simultanément, ce qui a entraîné un crash du serveur. Nous sommes en train de travailler activement avec notre fournisseur pour remettre le serveur en ligne le plus rapidement possible. Nous vous présentons nos excuses sincères pour les désagréments occasionnés et nous vous remercions de votre patience et compréhension pendant cette période. L'équipe Cycle Zéro ♻️"
   }
 }
