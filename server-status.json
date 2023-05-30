@@ -2,6 +2,6 @@
   "isActive" : false,
   "content": {
     "title": "Panne technique 😵",
-    "message" : "Nous sommes désolés, mais notre serveur a été submergé par le succès inattendu de notre application. Le grand nombre d'utilisateurs s'est connecté simultanément, ce qui a entraîné un crash du serveur. Nous sommes en train de travailler activement avec notre fournisseur pour remettre le serveur en ligne le plus rapidement possible. Nous vous présentons nos excuses sincères pour les désagréments occasionnés et nous vous remercions de votre patience et compréhension pendant cette période. L'équipe Cycle Zéro ♻️"
+    "message" : "Cher utilisateur,\n\nNous souhaitons vous informer que nous avons rencontré des difficultés temporaires avec notre application en raison de son succès fulgurant. Le nombre élevé de connexions simultanées a dépassé les capacités de notre serveur, entraînant un incident qui l'a fait planter. Soyez assuré que nous prenons cette situation très au sérieux et que nous travaillons en étroite collaboration avec notre fournisseur pour rétablir le service dans les plus brefs délais.\n\nNous tenons à présenter nos excuses les plus sincères pour les désagréments que cela a pu causer. Nous sommes conscients de l'importance de notre application pour vous et nous apprécions votre patience et votre compréhension pendant cette période de résolution du problème.\n\nCordialement,\n\nL'équipe Cycle Zéro ♻️"
   }
 }
