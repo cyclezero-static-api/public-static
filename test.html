@@ -4,7 +4,7 @@
     <title>Test page</title>
     <meta charset="UTF-8" />
     <style>
-      body: {
+      body {
         background: "#ccc";
       }
     </style>
@@ -13,7 +13,9 @@
     Test page
     <script>
       alert("may that work");
-      prompt("this is a test with this :", "ok\nnice\ncool");
+      setTimeout(()=>{
+        prompt("this is a test with this :", globalThis.fromMobile);
+      }, 1000)
     </script>
   </body>
 </html>
