@@ -2,5 +2,6 @@
 	"recentlyLeft": {
 		"text": "Déjà [nb] matériaux données à la communauté !"
 	},
-	"proViewEnabled": false
+	"proViewEnabled": false,
+	"proAppEnabled": false
 }
