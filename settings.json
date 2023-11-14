@@ -3,6 +3,6 @@
 		"text": "Déjà [nb] matériaux données à la communauté !"
 	},
 	"proViewEnabled": false,
-	"proAppEnabled": false,
-	"proAppAllowedMinVersion": "1.0.0",
+	"proAppEnabled": true,
+	"proAppAllowedMinVersion": "1.0.0"
 }
