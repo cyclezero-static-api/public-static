@@ -2,7 +2,7 @@
 	"recentlyLeft": {
 		"text": "Déjà [nb] matériaux données à la communauté !"
 	},
-	"proViewEnabled": false,
+	"proViewEnabled": true,
 	"proAppEnabled": true,
 	"proAppAllowedMinVersion": "1.0.0"
 }
