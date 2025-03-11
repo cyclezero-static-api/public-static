@@ -1,23 +1,8 @@
 {
   "devAllowed": true,
   "devAllowedId": [
-    "1.6.0.com.cycle0.cycle0dev.33",
-    "1.6.0.com.cycle0.cycle0dev.android.33",
-    "1.6.1.com.cycle0.cycle0dev.33",
-    "1.6.1.com.cycle0.cycle0dev.android.33",
-    "1.6.1.com.cycle0.cycle0dev.ios.2",
-    "1.6.3.com.cycle0.cycle0dev.android.37",
-    "1.6.3.com.cycle0.cycle0dev.android.36",
-    "1.6.4.com.cycle0.cycle0dev.android.37",
-    "1.6.4.com.cycle0.cycle0app.android.40",
-    "1.6.4.com.cycle0.cycle0dev.ios.2",
-    "1.6.5.com.cycle0.cycle0app.ios.41",
-
-    "Tester - SUP DE PUB 2024.com.cycle0.cycle0app.android.40",
-    "1.6.5.com.cycle0.cycle0app.android.40",
-    "1.6.5.com.cycle0.cycle0dev.ios.2",
-    "1.6.5.com.cycle0.cycle0app.android.42",
     "1.6.5.com.cycle0.cycle0dev.android.37",
-    "2.0.0.com.cycle0.cycle0dev.android.37"
+    "2.0.0.com.cycle0.cycle0dev.android.37",
+    "2.0.0.100.com.cycle0.cycle0dev.android.37"
   ]
 }
